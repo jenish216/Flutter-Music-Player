@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1009258933479",
+    "project_id": "musicplayer-f3323",
+    "storage_bucket": "musicplayer-f3323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009258933479:android:962a295bdaf45d867dc642",
+        "android_client_info": {
+          "package_name": "com.example.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009258933479-499gjerliuvrht1ll7157j5a2omtem5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicapp",
+            "certificate_hash": "0bcb2d1c410aeadb9f8f5e636bb43bf21458c8ec"
+          }
+        },
+        {
+          "client_id": "1009258933479-t1r6si0p1oefg7qgf8gd2lh4v7vam1ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDawrkWWMPyODVYMi0480xIN0Tp-hK1Kik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009258933479-t1r6si0p1oefg7qgf8gd2lh4v7vam1ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009258933479:android:94b92518abbb37507dc642",
+        "android_client_info": {
+          "package_name": "com.example.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009258933479-t1r6si0p1oefg7qgf8gd2lh4v7vam1ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDawrkWWMPyODVYMi0480xIN0Tp-hK1Kik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009258933479-t1r6si0p1oefg7qgf8gd2lh4v7vam1ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
